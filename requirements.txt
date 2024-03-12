@@ -2,3 +2,6 @@ pandas
 xgboost
 scikit-learn
 joblib
+fastapi
+pydantic
+uvicorn
